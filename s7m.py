@@ -8,7 +8,7 @@ API_ID = int("23090097")
 API_HASH = "3fb3746ba526a5b95fc8205d7015c0e5"
 Bots = []
 off =None
-ch = "" # يوزر قناتك
+
 
    message.continue_propagation()
 
